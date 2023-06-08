@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mc1tana/bookRate/static/css/main.081535d3.css",
-    "main.js": "/mc1tana/bookRate/static/js/main.54c7d1b6.js",
+    "main.js": "/mc1tana/bookRate/static/js/main.ff31be8b.js",
     "static/js/787.2c0e5b38.chunk.js": "/mc1tana/bookRate/static/js/787.2c0e5b38.chunk.js",
     "static/media/home_banner.jpg": "/mc1tana/bookRate/static/media/home_banner.e160219c56381f5d72be.jpg",
     "static/media/book_delete.png": "/mc1tana/bookRate/static/media/book_delete.f0aec92a2dde895664ec.png",
@@ -10,11 +10,11 @@
     "static/media/map_footer.png": "/mc1tana/bookRate/static/media/map_footer.a4eb4130dd9828775917.png",
     "index.html": "/mc1tana/bookRate/index.html",
     "main.081535d3.css.map": "/mc1tana/bookRate/static/css/main.081535d3.css.map",
-    "main.54c7d1b6.js.map": "/mc1tana/bookRate/static/js/main.54c7d1b6.js.map",
+    "main.ff31be8b.js.map": "/mc1tana/bookRate/static/js/main.ff31be8b.js.map",
     "787.2c0e5b38.chunk.js.map": "/mc1tana/bookRate/static/js/787.2c0e5b38.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.081535d3.css",
-    "static/js/main.54c7d1b6.js"
+    "static/js/main.ff31be8b.js"
   ]
 }
