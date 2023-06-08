@@ -21,7 +21,7 @@ function App() {
     setUser(connectedUser);
   }, [connectedUser]);
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/bookRate">
       <div>
         <ScrollToTop />
         <Header user={user} setUser={setUser} />
