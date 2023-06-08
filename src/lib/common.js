@@ -58,8 +58,6 @@ export async function getBook(id) {
     const book = response.data;
     // eslint-disable-next-line no-underscore-dangle
     book.id = book._id;
-    console.log('dsfsdff')
-    console.log(book)
     return book;
   } catch (err) {
     console.error(err);
@@ -105,7 +103,7 @@ export async function rateBook(id, userId, rating) {
         Authorization: `Bearer ${localStorage.getItem('token')}`,
       },
     });
-    const book = response.data.book;
+    const book = response.data;
     // eslint-disable-next-line no-underscore-dangle
     book.id = book._id;
     return book;
