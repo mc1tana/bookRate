@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/github.io/bookRate/static/css/main.081535d3.css",
-    "main.js": "/github.io/bookRate/static/js/main.b9278972.js",
-    "static/media/home_banner.jpg": "/github.io/bookRate/static/media/home_banner.e160219c56381f5d72be.jpg",
-    "static/media/book_delete.png": "/github.io/bookRate/static/media/book_delete.f0aec92a2dde895664ec.png",
-    "static/media/book_add.jpg": "/github.io/bookRate/static/media/book_add.39d19f3dbedefa81ee63.jpg",
-    "static/media/Logo.svg": "/github.io/bookRate/static/media/Logo.16725d5f400454fc59f2d21c740b0a06.svg",
-    "static/media/map_footer.png": "/github.io/bookRate/static/media/map_footer.a4eb4130dd9828775917.png",
-    "index.html": "/github.io/bookRate/index.html",
-    "main.081535d3.css.map": "/github.io/bookRate/static/css/main.081535d3.css.map",
-    "main.b9278972.js.map": "/github.io/bookRate/static/js/main.b9278972.js.map"
+    "main.css": "/bookRate/static/css/main.081535d3.css",
+    "main.js": "/bookRate/static/js/main.05fcd5f5.js",
+    "static/media/home_banner.jpg": "/bookRate/static/media/home_banner.e160219c56381f5d72be.jpg",
+    "static/media/book_delete.png": "/bookRate/static/media/book_delete.f0aec92a2dde895664ec.png",
+    "static/media/book_add.jpg": "/bookRate/static/media/book_add.39d19f3dbedefa81ee63.jpg",
+    "static/media/Logo.svg": "/bookRate/static/media/Logo.16725d5f400454fc59f2d21c740b0a06.svg",
+    "static/media/map_footer.png": "/bookRate/static/media/map_footer.a4eb4130dd9828775917.png",
+    "index.html": "/bookRate/index.html",
+    "main.081535d3.css.map": "/bookRate/static/css/main.081535d3.css.map",
+    "main.05fcd5f5.js.map": "/bookRate/static/js/main.05fcd5f5.js.map"
   },
   "entrypoints": [
     "static/css/main.081535d3.css",
-    "static/js/main.b9278972.js"
+    "static/js/main.05fcd5f5.js"
   ]
 }
