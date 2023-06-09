@@ -1,6 +1,6 @@
 {
   "homepage": "https://github.com/mc1tana/bookRate",
-  "name": "mon-vieux-grimoire-frontend",
+  "name": "bookrate",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
